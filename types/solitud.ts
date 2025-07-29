@@ -8,5 +8,4 @@ export type Solicitud =
  pais : string;
  tiempo : number;
  texto : string;
- archivo : string;
 }
